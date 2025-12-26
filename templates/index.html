@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nikhil Khurana | AI Portfolio</title>
+    <!-- Relative path for local viewing -->
+    <link rel="stylesheet" href="../static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Background Animation Canvas -->
+    <canvas id="neural-canvas"></canvas>
+
+    <div class="content-wrapper">
+        <header>
+            <div class="logo">NIKHIL KHURANA</div>
+            <div class="socials">
+                <a href="https://linkedin.com/in/khurananikhil21" target="_blank"><i
+                        class="fa-brands fa-linkedin"></i></a>
+                <a href="https://github.com/nik-khurana" target="_blank"><i class="fa-brands fa-github"></i></a>
+            </div>
+        </header>
+
+        <main>
+            <div class="hero-container" id="hero-container">
+                <h1 class="fade-in">Ask My AI</h1>
+                <p class="subtitle fade-in-delay">Discover my experience, skills, and vision through intelligence.</p>
+
+                <div class="search-wrapper fade-in-delay-2">
+                    <div class="search-bar">
+                        <i class="fa-solid fa-sparkles icon-glow"></i>
+                        <input type="text" id="user-input" placeholder="What would you like to know?"
+                            autocomplete="off">
+                        <button id="send-btn"><i class="fa-solid fa-arrow-right"></i></button>
+                    </div>
+                    <div class="suggestions">
+                        <span onclick="setInput('Tell me about your time at Samsung')">Samsung Experience</span>
+                        <span onclick="setInput('Why fit for OpenAI?')">OpenAI Fit</span>
+                        <span onclick="setInput('List your technical skills')">Skills</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-display" id="chat-display">
+                <!-- Dynamic interactions appear here -->
+            </div>
+        </main>
+    </div>
+
+    <script src="../static/script.js"></script>
+</body>
+
+</html>

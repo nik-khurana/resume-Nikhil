@@ -1,0 +1,63 @@
+Nikhil Khurana
+Kansas City, KS
+khurananikhil97@gmail.com
+https://github.com/nik-khurana
+https://www.linkedin.com/in/khurananikhil21
+
+
+Summary
+
+Results-driven Technical Project Manager with 4+ years of experience leading cross-functional teams and driving 20+ successful mobile and tablet product launches. Currently at Samsung Electronics America, I act as the bridge between R&D and North American wireless carriers, ensuring seamless product integration, compliance, and quality across 20+ mobile and tablet product lines. Skilled in workflow automation, technical issue resolution, and Android ecosystem optimization, I have spearheaded process improvements that increased team efficiency by 40% and reduced critical issue resolution time by 50%. Passionate about scaling automation, streamlining operations, and driving innovation across the product lifecycle.
+
+
+
+Work Experience
+
+Technical Project Manager Contract	
+Oct 2022 - Present
+Samsung Electronics America
+Overland Park, KS
+●	Spearheading end-to-end product lifecycle across mobile device launches and android upgrade and support with coordinating cross- functional teams to ensure 100% on time product readiness and quality before market release
+●	Serving as the go-to Android SME for all teams, providing expert guidance and resolving complex queries related to Android development, compliance, upgrades, integration, and optimization across multiple product lines
+●	Managing the reception and integration of 20+ carrier apps from North American carriers into mobile firmware, ensuring seamless incorporation and optimal performance across diverse device ecosystems
+●	Developing and executing a comprehensive strategy for enforcing Android and company policies across vendor ecosystems, ensuring 100% compliance
+●	Orchestrating weekly multiple joint debug, testing, and troubleshooting sessions between R&D teams and external parties, personally conducting critical tests to expedite issue resolution, and proactively leading teams to drive successful closure of technical challenges, reducing critical issue resolution time by over 50%.
+●	Conceptualized and drove the development of a Python-based automation tool, reducing manual effort in deliverable transfers by 80%
+●	Curated and presented Galaxy AI features at workshops and events, increasing product visibility by 40%
+
+Technical Project Manager Intern	
+Aug 2021- Dec 2021
+Celito Tech Inc	
+Chicago, IL
+●	Collaborated closely with biopharma clients to gather and analyze business requirements, ensuring alignment between technical solutions and organizational needs. Developed detailed technical specifications for implemented workflows, translating complex business requirements into actionable technical guidelines.
+●	Performed extensive data cleaning and preparation in Excel, ensuring data integrity and accuracy for critical business analysis and decision- making processes.
+●	Crafted initial drafts of data-driven presentations, synthesizing complex information into clear, concise formats for future client meetings and internal use.
+●	Led effective communication among team members using Smart sheets, resulting in enhanced customer satisfaction and streamlined project management.
+●	Managed system administration tasks, ensuring smooth operation of IT infrastructure and supporting project delivery timelines.
+
+Software Engineer Intern Android	
+May 2018 – June 2018
+Idea Cellular Ltd	
+Noida, India
+●	Developed, while mentoring a team of 2 junior interns, a comprehensive Goalkeeper Android Application, focusing on efficient CRUD (Create, Read, Update, Delete) operations for essential data management.
+
+Software Engineer Intern Android	
+May 2017 – June 2017
+Idea Cellular Ltd	
+Noida, India
+●	Implemented an android app designed to collect and summarize feedback of over 100 call recordings and customer service feedback responses, significantly improving quality assurance protocols and performance metrics.
+●	Collaborated with cross-functional teams to define system requirements and architected a scalable Android-based solution for efficient feedback collection and analysis.
+
+
+Education and Technical Skills
+
+Master of Science in Computer Science
+Illinois Institute of Technology, Chicago	
+Jan 2021 - May 2022
+
+Bachelor of Technology in Computer Science and Engineering
+Amity University, Noida, India	
+July 2015 -May 2019
+
+
+Technical Skills: Python, C, C++, Java, Kotlin, SQL, Android, HTML/CSS, MS Project, MS Visio, Smart sheet, AWS, MATLAB, MS Office, Jira, Confluence
